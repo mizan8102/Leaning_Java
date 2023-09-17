@@ -1,7 +1,9 @@
 # <center>Learn the Basics of Java</center> 
 
+
+### [Introduction to Programming Concepts](link_to_python_hat)
 <ol>
-  <li><h3>[Introduction to Programming Concepts](link_to_python_hat)</h3>  </li>
+  <li><h3></h3>  </li>
   <li>Tea</li>
   <li>Milk</li>
 </ol>
